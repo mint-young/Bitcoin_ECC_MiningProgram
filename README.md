@@ -33,7 +33,7 @@ Use this command to check number of blocks.
 $ bitcoin-cli getblockcount
 ```
 
-When the network is syncronized, Execute mining program on tmux window.
+When the network is synchronized, Execute mining program on tmux window.
 
 ```shell
 $ tumx
